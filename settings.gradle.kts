@@ -20,5 +20,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "androidStudy"
-include(":app")
 include(":countnumber")
