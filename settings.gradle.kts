@@ -21,3 +21,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "androidStudy"
 include(":countnumber")
+include(":shopping-mall")
+include(":shopping-mall:data")
+include(":shopping-mall:domain")

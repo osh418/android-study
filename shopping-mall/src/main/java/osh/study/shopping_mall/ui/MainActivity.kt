@@ -1,4 +1,4 @@
-package osh.study.shopping_mall
+package osh.study.shopping_mall.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

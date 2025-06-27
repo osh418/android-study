@@ -11,9 +11,11 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/countnumber" />
+            <option value="$PROJECT_DIR$/shopping-mall" />
+            <option value="$PROJECT_DIR$/shopping-mall/data" />
+            <option value="$PROJECT_DIR$/shopping-mall/domain" />
           </set>
         </option>
-        <option name="resolveExternalAnnotations" value="false" />
       </GradleProjectSettings>
     </option>
   </component>
